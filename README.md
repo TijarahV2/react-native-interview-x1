@@ -39,7 +39,7 @@ Your mission, should you choose to accept it, is to create an app where authors 
    - Add a delete button to each post (but don't actually delete, just mark as deleted)
    - Load and save all this post goodness using TypeORM
 
-4. ** Build the Backend **
+4. **Build the Backend**
    - Create a Node.js backend with APIs to handle post and author data
    - Choose your favorite database for the backend (or just use files if you're feeling old school)
 
