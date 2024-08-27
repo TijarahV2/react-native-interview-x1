@@ -1,11 +1,9 @@
 # React Native Full Stack Challenge: Blog Post Creator
 
 ## Let's Get Started!
-
 Hey there, future teammate! Ready to show off your React Native and Node.js skills? We've got an exciting challenge for you. You'll be building a cool blog post creator app. Let's dive in!
 
 ## What You'll Need
-
 - A computer with React Native environment ready to go
 - Stable internet connection
 - Your favorite code editor
@@ -13,17 +11,14 @@ Hey there, future teammate! Ready to show off your React Native and Node.js skil
 - TypeScript (because we're all about that type safety!)
 
 ## The Mission
-
 Your mission, should you choose to accept it, is to create an app where authors can write and manage blog posts. Sounds simple? Well, we've got some twists for you!
 
 ## Your Toolkit
-
 - TypeORM with SQLite for local data storage
 - React Hook Form or Formik for form management (dealer's choice!)
 - Node.js (TypeScript or NestJS preferred) for the backend
 
 ## The Journey
-
 1. **Database Setup**
    - Set up TypeORM with SQLite
    - Create models for `Post` and `Author`
@@ -48,11 +43,10 @@ Your mission, should you choose to accept it, is to create an app where authors 
    - Make sure any changes (create or delete) in posts or authors sync immediately with the backend
 
 ## The Rules of the Game
-
 - Commit your code after finishing each main step. We love seeing your thought process!
 - Keep it simple - use only Expo or React Native CLI for project setup
 - Have fun and show us your coding style!
+- **UI Flexibility**: You have the freedom to choose any UI design or components you prefer, as long as they effectively fulfill the app's requirements. We're more interested in functionality and code quality than specific UI choices.
 
 ## Ready, Set, Code!
-
 We can't wait to see what you come up with. Good luck, and may the code be with you!
